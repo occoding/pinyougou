@@ -48,7 +48,7 @@
         <security.version>3.2.3.RELEASE</security.version>
         <solrj.version>4.10.3</solrj.version>
         <ik.version>2012_u6</ik.version>
-        <jackson.version>2.5.4</jackson.version>
+        <jackson.version>2.13.4.1</jackson.version>
     </properties>
 
         <dependencies>
